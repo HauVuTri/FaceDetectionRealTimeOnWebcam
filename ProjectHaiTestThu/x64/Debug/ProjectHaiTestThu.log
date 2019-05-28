@@ -1,0 +1,5 @@
+﻿  source.cpp
+  main.cpp
+  Generating Code...
+d:\dlib-19.15\dlib\matrix\matrix.h(1138): warning C4724: potential mod by 0
+D:\dlib-19.15\dlib\all\source.cpp : fatal error C1128: number of sections exceeded object file format limit: compile with /bigobj

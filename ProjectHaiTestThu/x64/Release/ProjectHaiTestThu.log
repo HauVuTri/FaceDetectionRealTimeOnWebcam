@@ -1,0 +1,9 @@
+﻿  FaceLandmarksDetection.cpp
+c:\users\alis ho\source\repos\projecthaitestthu\projecthaitestthu\facelandmarksdetection.cpp(58): warning C4101: 'e': unreferenced local variable
+  Generating code
+c:\users\alis ho\source\repos\projecthaitestthu\projecthaitestthu\facelandmarksdetection.cpp(66): warning C4715: 'faceLandmarksDetection': not all control paths return a value
+  1 of 11745 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectHaiTestThu.vcxproj -> C:\Users\Alis Ho\Source\Repos\ProjectHaiTestThu\x64\Release\ProjectHaiTestThu.exe
